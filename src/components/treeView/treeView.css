@@ -1,0 +1,15 @@
+ 
+.main {
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 1%;
+  padding: 1%;
+  font-size: large;
+ }
+.plusBtn {
+  cursor: pointer;
+}
